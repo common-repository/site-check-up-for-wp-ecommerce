@@ -1,0 +1,12 @@
+{
+  "repositories": [
+    { "type": "git", "url": "git@github.com:JeffPyeBrook/pbci-lib.git" },
+    { "packagist": false }
+  ],
+
+  "require": {
+    "pyebrook/pbci-lib": "*"
+  },
+
+  "minimum-stability": "dev"
+}

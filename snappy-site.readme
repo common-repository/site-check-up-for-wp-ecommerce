@@ -1,0 +1,42 @@
+=== WPEC Shopper Watch ===
+Contributors: jeff@pyebrook.com
+Donate link: www.pyebrook.com
+Tags: WPEC, wp-e-commerce
+Requires at least: 3.8
+Tested up to: 3.8.1
+Stable tag: 1.3
+
+See timings of WP e-Commerce Hooks and actions.  View debug log. Check WordPress Database Statistics.
+
+== Description ==
+
+See timings of WP e-Commerce Hooks and actions.  View debug log.
+ 
+== Installation ==
+
+1. Unzip `snappy-site.zip` to the `/wp-content/plugins/snappy-site` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Frequently Asked Questions ==
+
+
+= Support =
+
+Post a comment to http://www.pyebrok.com or email jeff@pyebrook.com
+
+== Changelog ==
+
+= 1.3 =
+* New: Database check up display
+* New: PHP Info Display
+
+= 1.2 =
+* Fix: plugin update version will display correctly on information screen
+
+= 1.1 =
+* Minor fixes
+* Removed debug messages
+
+= 1.0 =
+* Initial Release
+

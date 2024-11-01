@@ -1,0 +1,90 @@
+.pbci-widefat-header-row {
+    background-color: lightgray;
+}
+
+.pbci-widefat-header-row th {
+    font-weight: bold;
+}
+
+.snappy-header-row {
+    background-color: lightgray;
+}
+
+.pbci-admin-byline {
+    font-style: italic;
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+
+th.button-holder,
+td.button-holder {
+  text-align: right;
+}
+
+.url-ready-to-check {
+    color: lightgray;
+}
+
+.url-check-in-progress {
+    color: orange;
+}
+
+.url-check-ok {
+    color: white;
+    background: darkgreen;
+    text-align: center;
+    font-weight: bold;
+}
+
+.url-check-failed {
+    color: white;
+    background: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.url-check-warning {
+    color: white;
+    background: orange;
+    text-align: center;
+    font-weight: bold;
+}
+
+.pbci-title-box {
+    margin-bottom: 6px;
+    background-color: lightgrey;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    height: 40px;
+    clear: both;
+    width: 100%;
+}
+
+.snappy-icon {
+    width: 32px;
+    height: 32px;
+    float: left;
+    background: url( assets/pye-brook-logo-wpec-checkup-32.png ) no-repeat;
+    margin-right: 8px;
+    display: inline-block;
+}
+
+h2.snappy-title {
+    display: inline-block;
+}
+
+.snappy-title-box .text {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 1px;
+}
+
+.pbci-admin-byline {
+    font-size: 12px;
+    font-weight: normal;
+    float: right;
+}
+
+
+

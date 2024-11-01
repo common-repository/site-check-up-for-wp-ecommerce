@@ -1,0 +1,25 @@
+[
+    {
+        "name": "pyebrook/pbci-lib",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@github.com:JeffPyeBrook/pbci-lib.git",
+            "reference": "7ae36978a548e9df4ac62d637e161ef871f55ad4"
+        },
+        "time": "2014-11-23 22:15:06",
+        "type": "library",
+        "installation-source": "source",
+        "license": [
+            "proprietary"
+        ],
+        "authors": [
+            {
+                "name": "Jeffrey Schutzman",
+                "email": "jeff@pyebrook.com"
+            }
+        ],
+        "description": "pye brook utility library"
+    }
+]
